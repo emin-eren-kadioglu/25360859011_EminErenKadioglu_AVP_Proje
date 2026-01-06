@@ -61,7 +61,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
     git clone [https://github.com/emin-eren-kadioglu/25360859011_EminErenKadioglu_AVP_Proje.git](https://github.com/emin-eren-kadioglu/25360859011_EminErenKadioglu_AVP_Proje.git)
     ```
 2.  **Derleyin (GCC Örneği):**
-    Projeyi zipten çıkarıldıktan sonra matematik kütüphanesi (`math.h`) kullandığı için `-lm` bayrağı ile derlenmelidir.
+    Proje matematik kütüphanesi (`math.h`) kullandığı için `-lm` bayrağı ile derlenmelidir.
     ```bash
     gcc main.c -o space_sim -lm
     ```
