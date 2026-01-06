@@ -75,7 +75,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyebi
 ## 📸 Ekran Görüntüleri
 
 <img width="854" height="279" alt="image" src="https://github.com/user-attachments/assets/0d674341-e2e6-42e3-8af5-13031de6c852" />
-<img width="840" height="354" alt="image" src="https://github.com/user-attachments/assets/94b24052-a20c-48f9-b697-a245a70b5fd3" />
+<img width="847" height="380" alt="image" src="https://github.com/user-attachments/assets/e835f5a5-ebe8-4b1b-95a3-fe99750c8db6" />
 
 ---
 
